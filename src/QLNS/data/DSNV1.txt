@@ -1,0 +1,10 @@
+011 # Bưởi1 # 1990 # buoi1@gmail.com # 09000 # true # PB01 # 30
+012 # Chuối1 # 1992 # chuoi1@gmail.com # 09321 # false # PB01 # 29
+013 # Mận1 # 1998 # man1@gmail.com # 09333 # false # PB01 # 28
+014 # Xoài1 # 1993 # xoai1@gmail.com # 09134 # true # PB02 # 27
+015 # Hoa1 # 1994 # hoa1@gmail.com # 08654 # false # PB02 # 25
+016 # Lan1 # 1992 # lan1@gmail.com # 08834 # false # PB03 # 30
+017 # Hương1 # 1993 # huong1@gmail.com # 08834 # true # PB06 # 27
+018 # Vịt1 # 1998 # vit1@gmail.com # 06534 # false # PB05 # 29
+019 # Heo1 # 1994 # heo1@gmail.com # 09734 # false # PB06 # 30
+020 # Gà1 # 1995 # ga1@gmail.com # 01434 # false # PB06 # 29

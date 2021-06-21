@@ -1,0 +1,10 @@
+T011 # Them Nhan Vien # 8 # 013
+T012 # Xoa Nhan Vien # 12 # 018
+T013 # Dang nhap # 4 # 013
+T014 # Dang ky # 6 # 018
+T015 # Kiem tra tai khoan # 5 # 015
+T006 # Kiem tra hop le # 4 # 013
+T007 # Bien dich # 30 # 020
+T008 # Test dang nhap # 3 # 020
+T009 # Test dang xuat # 2 # 018
+T010 # Giao dien trang chu # 20 # 019 
