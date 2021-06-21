@@ -72,7 +72,7 @@ public class XuLyNS {
 		System.out.println("3.Phân công task");
 		System.out.println("4.Tìm Nhân Viên có nhiều task");
 		System.out.println("5.Tìm nhân viên trẻ tuổi có nhiều task nhất");
-		System.out.println("6.Phòng ban có nhân viên trẻ nhất);
+		System.out.println("6.Phòng ban có nhân viên trẻ nhất");
 		System.out.println("7.Quicksort theo số lượng task");
 		System.out.println("8.Interchangesort cho họ và tên");
 		System.out.println("9.Xóa nhân sự theo mã ");
