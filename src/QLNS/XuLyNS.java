@@ -67,16 +67,16 @@ public class XuLyNS {
 
 	private static void inMenu() {
 		System.out.println("Vui lòng chọn thực hiện");
-//		System.out.println("1.Nhập thông tin công ty");
-//		System.out.println("2.Thêm hoặc xóa nhân sự");
-//		System.out.println("3.Xuất thông tin toàn bộ công ty");
-//		System.out.println("4.Tính tổng lương cho toàn bộ công ty");
-//		System.out.println("5.Xuất nhân viên có lương cao nhất");
-//		System.out.println("6.Phân bổ nhân viên chưa có ai quản lý");
-//		System.out.println("7.Trưởng phòng có lượng nhân viên dưới quyền nhiều nhất");
-//		System.out.println("8.Sắp Xếp nhân sự");
-//		System.out.println("9.Tìm giám đốc có cổ phần cao nhất");
-//		System.out.println("10.Xuất doanh thu giám đốc");
+		System.out.println("1.Phân Bổ Nhân Viên");
+		System.out.println("2.Chỉ định trưởng Phòng");
+		System.out.println("3.Phân công task");
+		System.out.println("4.Tìm Nhân Viên có nhiều task");
+		System.out.println("5.Tìm nhân viên trẻ tuổi có nhiều task nhất");
+		System.out.println("6.Phòng ban có nhân viên trẻ nhất);
+		System.out.println("7.Quicksort theo số lượng task");
+		System.out.println("8.Interchangesort cho họ và tên");
+		System.out.println("9.Xóa nhân sự theo mã ");
+		System.out.println("10.Hủy task theo mã");
 		System.out.println("0.Thoát");
 	}
 }
